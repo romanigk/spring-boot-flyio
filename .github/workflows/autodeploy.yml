@@ -43,7 +43,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install flyctl via https://github.com/superfly/flyctl-actions
-        uses: superfly/flyctl-actions@master
+        uses: superfly/flyctl-actions/setup-flyctl@master
 
       - name: Print flyctl version
         run: flyctl version
