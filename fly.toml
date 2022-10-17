@@ -1,6 +1,6 @@
-# fly.toml file generated for spring-boot-flyio on 2022-09-14T11:37:49+02:00
+# fly.toml file generated for spring-boot-flyio2 on 2022-10-17T10:17:49+02:00
 
-app = "spring-boot-flyio"
+app = "spring-boot-flyio2"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
